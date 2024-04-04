@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\BankAccountMethodOverridingg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95B77BAB-61DE-43B4-A376-3D1789C5F8B3}|BankAccountMethodOverridingg\\BankAccountMethodOverridingg.csproj|f:\\dotnetprogramss\\bankaccountmethodoverridingg\\bankaccountmethodoverridingg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B77BAB-61DE-43B4-A376-3D1789C5F8B3}|BankAccountMethodOverridingg\\BankAccountMethodOverridingg.csproj|solutionrelative:bankaccountmethodoverridingg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B77BAB-61DE-43B4-A376-3D1789C5F8B3}|BankAccountMethodOverridingg\\BankAccountMethodOverridingg.csproj|F:\\DotNetProgramss\\BankAccountMethodOverridingg\\bankaccountmethodoverridingg\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B77BAB-61DE-43B4-A376-3D1789C5F8B3}|BankAccountMethodOverridingg\\BankAccountMethodOverridingg.csproj|solutionrelative:bankaccountmethodoverridingg\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B77BAB-61DE-43B4-A376-3D1789C5F8B3}|BankAccountMethodOverridingg\\BankAccountMethodOverridingg.csproj|F:\\DotNetProgramss\\BankAccountMethodOverridingg\\bankaccountmethodoverridingg\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B77BAB-61DE-43B4-A376-3D1789C5F8B3}|BankAccountMethodOverridingg\\BankAccountMethodOverridingg.csproj|solutionrelative:bankaccountmethodoverridingg\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BankAccountMethodOverridingg\\BankAccountMethodOverridingg\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountMethodOverridingg\\CurrentAccount.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BankAccountMethodOverridingg\\BankAccountMethodOverridingg\\CurrentAccount.cs",
+              "RelativeToolTip": "BankAccountMethodOverridingg\\CurrentAccount.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:16:34.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BankAccountMethodOverridingg\\BankAccountMethodOverridingg\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "BankAccountMethodOverridingg\\SavingsAccount.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BankAccountMethodOverridingg\\BankAccountMethodOverridingg\\SavingsAccount.cs",
+              "RelativeToolTip": "BankAccountMethodOverridingg\\SavingsAccount.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T06:03:07.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BankAccountMethodOverridingg\\BankAccountMethodOverridingg\\Program.cs",
+              "RelativeDocumentMoniker": "BankAccountMethodOverridingg\\Program.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BankAccountMethodOverridingg\\BankAccountMethodOverridingg\\Program.cs",
+              "RelativeToolTip": "BankAccountMethodOverridingg\\Program.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAswCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T17:21:42.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
